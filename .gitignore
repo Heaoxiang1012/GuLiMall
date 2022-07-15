@@ -41,3 +41,4 @@ HELP.md
 **/target/
 .idea
 **/.gitignore
+**.iml
